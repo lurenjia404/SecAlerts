@@ -1,0 +1,302 @@
+[
+    {
+        "title": "HTTP2Shell 漏洞扩大了 Node2Shell 风险",
+        "url": "https://mp.weixin.qq.com/s/3WPy6S3xyDciHTU9LerSzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "工具分享 | 一款全功能 Web 漏洞扫描工具 - WebVulnScanner v12.0",
+        "url": "https://mp.weixin.qq.com/s/dATmHfyYiGfJHZ_sJd824A",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "被同一个白帽子连续破防4次？详解GitLab最新10.0高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/hFyUpqg_MOrBUlcBn3ziew",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "AI 渗透测试  \\\"同样是满分，我们少花了 80% 的 Token\\\"",
+        "url": "https://mp.weixin.qq.com/s/I60sGvYj01LAYk7r3pVimA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "宇树Go2机器狗未授权RCE，9.6分紧急（CVE-2026-115995）",
+        "url": "https://mp.weixin.qq.com/s/2i6WxBSSs4WVlINWpkD4hg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "扒一扒LiteLLM供应链攻击内幕：黑客是如何利用GitHub OAuth令牌留后门的？",
+        "url": "https://mp.weixin.qq.com/s/htjG8StZIhW4o6nZa3rP1w",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "漏洞预警 | H3C Magic NX15命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/psJiKTuUu2cGFlHCaXQ9hA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "漏洞预警 | Drupal远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/7m6ON0XMkyiYXkykMkWRUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "红队全链路自动化攻击平台 | 面向授权渗透测试与攻防演练的集成化桌面工具",
+        "url": "https://mp.weixin.qq.com/s/-IbZlf-svuLRRDXGvH5yFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "善意被报警并非中国特有：给负责任漏洞披露装上“确定性接口”",
+        "url": "https://mp.weixin.qq.com/s/iw-7cjeWaflq3QA506VtiQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "Oracle发布1295个安全补丁，修复多个产品中的关键漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZpVH1ROvTTINMebUBWqQkA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "全球首个多AI Agent渗透平台RedAgents正式发布",
+        "url": "https://mp.weixin.qq.com/s/fvqZb-ECFegk_WxNNj8-PA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "OpenAI智能体利用零日漏洞逃逸沙箱，访问宿主机系统",
+        "url": "https://mp.weixin.qq.com/s/ONzN4E-mNhbJEwth5qSgXw",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "安天PHP2Shell漏洞专项加固工具新增银河麒麟、统信UOS适配版本",
+        "url": "https://mp.weixin.qq.com/s/ykB_ZwR0tVhP6gUTzac3dQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "极客赛场纠错，企业为何偏要捂住漏洞？",
+        "url": "https://mp.weixin.qq.com/s/ZrlKpKuF8A-INCTbGpXt6A",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "安天发布PHP2Shell漏洞专项系列加固工具",
+        "url": "https://mp.weixin.qq.com/s/84elGQL5rRiXvA6bVPfdqg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "安天网络行为检测能力升级通告（20261025）",
+        "url": "https://mp.weixin.qq.com/s/3nzY9Y7utGyc9Jq3hKhCnA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "【攻击检测规则与迹象排查】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/CSATM2WBf-DGc-W7pjktbg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "安全的本质 是正视漏洞 解决隐患 而非规避发现漏洞的人",
+        "url": "https://mp.weixin.qq.com/s/dw5VHLqxOjOFXLy8UYsRcg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "GitHub AI 渗透红队开源盘点：本周 6 个新项目，星标实时核对",
+        "url": "https://mp.weixin.qq.com/s/LNizqJrKuhG9q-ryIvg_NQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "日本大型快递公司佐川急便系统遭入侵 致大量个人信息泄露",
+        "url": "https://mp.weixin.qq.com/s/Ni7cAeXkQHRx1js0W1g-lg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "【已复现】Node.js Brotli 解码器越界写漏洞（CVE-2026-111497）",
+        "url": "https://mp.weixin.qq.com/s/C_-_m_guBBjM2gtyRx2jdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "Nextcloud 命令注入 9.2 分落 Webshell CVE-2026-110447",
+        "url": "https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "解压即入口：Brotli解码器越界写入影响Node.js（CVE-2026-111497）",
+        "url": "https://mp.weixin.qq.com/s/3N5NFdz1AqfzyUDTmUpNwQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "【AI安全】记一次提示词注入实战：数据泄露的渗透测试复盘",
+        "url": "https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "Web框架漏洞盘点那些年拖垮无数网站的经典漏洞",
+        "url": "https://mp.weixin.qq.com/s/stsKbko2wPLlt4D1ODq2jw",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "AegisLoop 开源：ARTEX 变体把自主渗透接上了 Splunk 防御闭环",
+        "url": "https://mp.weixin.qq.com/s/4bsAXLXrMUCpx_niUklXVQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "顶尖红队渗透提示词 黑掉一切",
+        "url": "https://mp.weixin.qq.com/s/dFuZRiiv-U4AYxtZ47ziVA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "PHP后Oracle发布多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/TXc5UcWBfwcLd18EorvIHw",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "从xa0403xa0到xa0RCExa0风险：PHP2Shellxa0漏洞全面解析与xa0PHP2ShellPOC2026xa03.0xa0实战",
+        "url": "https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "2026 PHP基础安全全景：从语法糖到RCE，每一个特性都是一条攻击链",
+        "url": "https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！",
+        "url": "https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "AI 时代到了，还有人坚持古法渗透吗",
+        "url": "https://mp.weixin.qq.com/s/jEyLhlIkl1DL-zs2vDoaSg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "金叶物联网大数据管理平台download接口存在任意文件读取漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "网络安全渗透测试 Agent 推荐",
+        "url": "https://mp.weixin.qq.com/s/3hYS5KfAEl5bt8yi5YVB6g",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "用缓冲区溢出漏洞把 3090 变成 A6000",
+        "url": "https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现",
+        "url": "https://mp.weixin.qq.com/s/KL637HDvNZZCW6EZldWBNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现",
+        "url": "https://mp.weixin.qq.com/s/xxeU6jBkFbAjnnuua_Zd8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "十二年轮回：GitLab 满分 RCE 的解剖与警示",
+        "url": "https://mp.weixin.qq.com/s/2wigI5nmCrFUjpOSI58_eQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "从Token伪造到SQL注入，四步打穿某监管平台全库",
+        "url": "https://mp.weixin.qq.com/s/9sZc24roErlvhpxQPsBVAQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "速修 | WordPress 备份插件未认证 PHP 对象注入，9.8 分",
+        "url": "https://mp.weixin.qq.com/s/Zm5I5K4tM3aNM6yAcOsM4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetVIPCardCode接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-VIPCard-GetVIPCardCode-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetDefault接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Sys-GetDefault-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetChildInfo接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Sys-GetChildInfo-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 NewZtManager接口未授权访问致信息泄露漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-env-setup-2.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 getSysSetInfo与GetZtnameSet接口未授权访问漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Sysconfig-GetZtnameSet-file-read.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 downloadzt接口任意文件读取漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "PHP2SHELL: CVE-2026-109618-CVE-2026-109619-PHP会话上传进度状态残留全链研究之WordPress默认PHP环境下的RCE漏洞",
+        "url": "https://mrxn.net/jswz/php2shell-cve-2026-109618-php-session-state-uaf-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "没错 我也被php2shell光顾了",
+        "url": "https://mrxn.net/other/php2shell-scan-notes.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 StorageInfoUpdateProductListPrtTimes接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-StorageInfo-UpdateProductListPrtTimes-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    }
+]
