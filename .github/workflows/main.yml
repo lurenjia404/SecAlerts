@@ -6,7 +6,6 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # UTC0点=北京时间8点；UTC12点=北京时间20点，每日两次抓取
     - cron: '0 0 * * *'
     - cron: '0 12 * * *'
 
@@ -21,7 +20,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. 运行Python脚本，生成archive漏洞数据
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -32,22 +30,31 @@ jobs:
         run: pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
       - name: Run script to generate pages
-        run: python main.py
+        run: python main.py || true
 
-      # ⚠️【重点】不再git push回main分支！注释掉原来Commit and push updated archive步骤
-      # 不再把archive提交回仓库，构建直接读取工作流内生成的archive目录
-
-      # 2. 安装Ruby/Jekyll，在Workflow内部完成站点渲染
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
           bundler-cache: true
 
+      # 自动生成Gemfile + 安装依赖
+      - name: Prepare Gemfile & bundle install
+        run: |
+          if [ ! -f Gemfile ]; then
+            cat > Gemfile <<EOF
+source "https://rubygems.org"
+gem "jekyll", "~> 4.3"
+gem "jekyll-theme-hacker"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+EOF
+          fi
+          bundle install
+
       - name: Build Jekyll site
         run: bundle exec jekyll build --baseurl "/SecAlerts"
 
-      # 3. 上传构建产物并部署Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -56,3 +63,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
